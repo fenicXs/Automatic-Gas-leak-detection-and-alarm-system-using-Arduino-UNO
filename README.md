@@ -39,5 +39,5 @@ This project is an **Automatic Gas Leak Detection and Alarm System** using an Ar
    - The code handles gas detection, alarm triggering, and automatic gas shutoff.
 
 ## Results
-![Before Smoke]()
+![Before Smoke](https://github.com/fenicXs/Automatic-Gas-leak-detection-and-alarm-system-using-Arduino-UNO/blob/main/1.jpg?raw=true)
 ![After Smoke]()
