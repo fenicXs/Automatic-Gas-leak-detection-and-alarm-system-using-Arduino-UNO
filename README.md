@@ -39,4 +39,5 @@ This project is an **Automatic Gas Leak Detection and Alarm System** using an Ar
    - The code handles gas detection, alarm triggering, and automatic gas shutoff.
 
 ## Results
-
+![Before Smoke]()
+![After Smoke]()
