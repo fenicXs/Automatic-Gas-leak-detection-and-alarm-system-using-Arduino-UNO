@@ -14,7 +14,7 @@ This project is an **Automatic Gas Leak Detection and Alarm System** using an Ar
 - **Breadboard**
 
 ## Circuit Diagram
-![Circuit Diagram]()
+![Circuit Diagram](https://github.com/fenicXs/Automatic-Gas-leak-detection-and-alarm-system-using-Arduino-UNO/blob/main/circuit%20diagram.jpg?raw=true)
 
 ## Features
 - **Gas Detection**: Detects gases like LPG, propane, and methane.
