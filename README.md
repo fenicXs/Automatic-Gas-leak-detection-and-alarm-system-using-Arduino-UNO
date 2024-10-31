@@ -37,3 +37,6 @@ This project is an **Automatic Gas Leak Detection and Alarm System** using an Ar
 2. **Software**:
    - Upload the provided Arduino sketch to the Arduino UNO using the Arduino IDE.
    - The code handles gas detection, alarm triggering, and automatic gas shutoff.
+
+## Results
+
