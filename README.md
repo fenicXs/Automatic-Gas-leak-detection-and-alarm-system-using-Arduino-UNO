@@ -14,7 +14,7 @@ This project is an **Automatic Gas Leak Detection and Alarm System** using an Ar
 - **Breadboard**
 
 ## Circuit Diagram
-(Provide a link to an image of the circuit diagram or embed it here)
+![Circuit Diagram]()
 
 ## Features
 - **Gas Detection**: Detects gases like LPG, propane, and methane.
